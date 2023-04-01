@@ -17,3 +17,5 @@ def isWin(player, opponent):
     
 
 print(play())
+
+#++EAJ++
